@@ -4,6 +4,7 @@
 The Pyramid of Pain is a cybersecurity framework that highlights how different types of Indicators of Compromise (IOCs) impact attackers and defenders.
 
 ## Levels of the Pyramid
+![Pyramidofpain](https://www.attackiq.com/wp-content/uploads/2019/06/blog-pyramid-pain-01-768x432.jpg)
 
 1. **Hash Values**
    - Unique IDs for files (e.g., MD5, SHA256).
